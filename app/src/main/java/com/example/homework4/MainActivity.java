@@ -23,7 +23,7 @@ public class MainActivity extends AppCompatActivity {
         if (num==7){
             btn.setText("BOOM");
             num=0;
-            //
+            // comment
         }
     }
 }
